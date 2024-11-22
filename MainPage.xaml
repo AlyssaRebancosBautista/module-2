@@ -14,7 +14,7 @@
         <Label
         Text="CALCULATOR"
         TextColor="Black"
-        BackgroundColor="#ADD8E6"
+        BackgroundColor="#FFC0CB"
         FontSize="25"
         HorizontalOptions="Center"
         />    
@@ -71,7 +71,7 @@
                 Clicked="OnButtonClicked" />
             <Button
                 Text="/"
-                BackgroundColor="#ADD8E6"
+                BackgroundColor="#FFC0CB"
                 Grid.Row="0"
                 Grid.Column="3"
                 Clicked="OnButtonClicked" />
@@ -92,7 +92,7 @@
                 Clicked="OnButtonClicked" />
             <Button
                 Text="*"
-                BackgroundColor="#ADD8E6"
+                BackgroundColor="#FFC0CB"
                 Grid.Row="1"
                 Grid.Column="3"
                 Clicked="OnButtonClicked" />
@@ -113,7 +113,7 @@
                 Clicked="OnButtonClicked" />
             <Button
                 Text="-"
-                BackgroundColor="#ADD8E6"
+                BackgroundColor="#FFC0CB"
                 Grid.Row="2"
                 Grid.Column="3"
                 Clicked="OnButtonClicked" />
@@ -130,7 +130,7 @@
                 Clicked="OnEqualClicked" />
             <Button
                 Text="+"
-                BackgroundColor="#ADD8E6"
+                BackgroundColor="#FFC0CB"
                 Grid.Row="3"
                 Grid.Column="3"
                 Clicked="OnButtonClicked" />
